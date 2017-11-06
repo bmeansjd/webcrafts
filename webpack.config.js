@@ -3,6 +3,7 @@ var webpack = require('webpack');
 
 module.exports = {
     entry: './main.js',
+    entry: './source/react-main.js',
     output: {path: __dirname, filename: 'bundle.js'},
     module: {
         loaders: [
