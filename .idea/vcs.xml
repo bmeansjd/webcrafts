@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/isit-code-means" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/isit-site-tools-means" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/isit-web-crafts-means" vcs="Git" />
   </component>
 </project>
